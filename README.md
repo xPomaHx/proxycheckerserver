@@ -1,0 +1,3 @@
+# proxycheckerserver
+
+нерабочий прототип
